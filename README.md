@@ -3,11 +3,11 @@
   <html>
    <body>
   <p align="center">  
-  <a aria-label="FORK" href="https://github.com/SuhailTechInfo/Secktor-bot/fork" target="_blank">
+  <a aria-label="FORK" href="https://github.com/jamesxtreme/JORDAN-JOELSTAR/fork" target="_blank">
     <img alt="License: GPL-3" src="https://img.shields.io/github/stars/SuhailTechInfo/web-qr?style=social" target="_blank" />
   </a>
-  <a aria-label="Suhail_Md is free to use" href="https://youtube.com/@suhailtechinfo" target="_blank">
-    <img alt="SuhailTechInfo" src="https://img.shields.io/youtube/channel/subscribers/UCU071AMRqcd5mfTdCgJFwPg" target="_blank" />
+  <a aria-label="𝙹𝙾𝚁𝙳𝙰𝙽-𝙹𝙾𝙴𝙻𝚂𝚃𝙰𝚁 🤖 is free to use" href="https://youtube.com/@suhailtechinfo" target="_blank">
+    <img alt="𝙹𝙾𝚁𝙳𝙰𝙽-𝙹𝙾𝙴𝙻𝚂𝚃𝙰𝚁" src="https://img.shields.io/youtube/channel/subscribers/UCU071AMRqcd5mfTdCgJFwPg" target="_blank" />
   </a>
     <p align="center"><img src="https://profile-counter.glitch.me/{smd-web-qr}/count.svg" alt="SuhailTechInfo :: Visitor's Count" /></p>
 
@@ -18,9 +18,9 @@
 
 ## Deployment Methods
 ---
-1.  ***Click [`FORK`](https://github.com/SuhailTechInfo/web-qr/fork) and `Star ⭐ Repository` if you get help from repo.***
-2.  ***Deploy on [`HEROKU`](https://dashboard.heroku.com/new?template=https://github.com/SuhailTechInfo/web-qr).***
-3.  ***Deploy on [`REPLIT`](https://replit.com/github/SuhailTechInfo/web-qr).***
+1.  ***Click [`FORK`](https://github.com/jamesxtreme/J-JWEB/fork) and `Star ⭐ Repository` if you get help from repo.***
+2.  ***Deploy on [`HEROKU`](https://dashboard.heroku.com/new?template=https://github.com/jamesxtreme/J-JWEB).***
+3.  ***Deploy on [`REPLIT`](https://replit.com/github/jamesxtreme/J-JWEB).***
 4. ***Deploy on [`RENDER`](https://dashboard.render.com/login).***
 ```
 RENDER PROCESS:
@@ -82,4 +82,4 @@ RENDER PROCESS:
 
 
 ## MADE WITH ❤️
-[![SuhailTechIinfo](https://github.com/SuhailTechInfo.png?size=300)](https://github.com/SuhailTechInfo)
+[![SuhailTechIinfo](https://telegra.ph/file/e216712012916c0a0bffb.jpg?size=300)](https://github.com/SuhailTechInfo)
